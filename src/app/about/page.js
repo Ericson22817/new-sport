@@ -53,7 +53,7 @@ const AboutPage = () => {
           </h3>
 
           <h2 className="text-3xl text-black md:text-4xl font-bold leading-tight mt-5">
-            THE FACES BEHIND THE GAME: OUR TEAM'S STORY
+            THE FACES BEHIND THE GAME: OUR TEAM&apos;S STORY
           </h2>
 
           <p className="mt-4 text-black max-w-3xl">
