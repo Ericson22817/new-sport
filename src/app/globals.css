@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body{
+  color: white;
+  /* background-image: url('/pics.png'); */
+  /* background-size: cover; */
+  /* filter: brightness(30%); */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
