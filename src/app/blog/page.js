@@ -15,7 +15,7 @@ const BlogPage = () => {
           height: "100vh",
         }}
       >
-        <div className="flex flex-col items-start justify-end max-sm:w-lg mx-5 my-10">
+        <div className="flex flex-col items-start justify-end max-sm:w-auto max-sm:mx-3 my-10">
           <button className="bg-red-600 text-white px-6 py-2 rounded-full flex tracking-wider font-bold mt-4 w-55 h-10">
             Elevate Your Game
           </button>
